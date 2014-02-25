@@ -1,0 +1,35 @@
+#GitHub Ignore File#
+####################
+
+#Folders#
+#########
+
+assets/
+compendiumunlocks/
+CustomDISkins/
+libraries/
+saves/
+stats/
+crash-reports/
+logs/
+resourcepacks/
+
+#Files Types#
+#############
+
+*.log
+.log.1
+.log.1.lck
+.log.2
+.log.lck
+
+#Files#
+#######
+
+ruins_log.txt
+IDConflicts.txt
+options.txt
+servers.dat
+launcher.jar
+launcher.pack.lzma
+launcher_profiles.json

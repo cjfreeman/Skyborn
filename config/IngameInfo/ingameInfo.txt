@@ -1,0 +1,2 @@
+<topleft>&fDay <day> (<daytime[&e/&8]><mctime[12]>&f)
+Time: &b<rltime[h:mma]>

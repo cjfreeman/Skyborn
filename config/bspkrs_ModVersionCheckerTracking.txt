@@ -1,0 +1,10 @@
+# Configuration file
+
+version_check_tracker {
+    S:ArmorStatusHUD=v1.15(1.6.4)
+    S:IngameInfo=Forge 1.6.4.r05
+    S:StartingInventory=Forge 1.6.4.r03
+    S:bspkrsCore=v5.3(1.6.4)
+}
+
+
